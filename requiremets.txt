@@ -1,0 +1,17 @@
+Webpack (imports/exports)
+    Babel
+    Scss
+    Eslint (чистота js кода)
+    2 Modes
+        - Dev
+            Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
+        - Prod
+            !(Dev Server, SourceMaps, Eslint, Not Minified JS & CSS)
+
+Git
+
+    Production
+        1.0.0
+    Development
+        1.0.2
+        ?- сильные изменения; ?- средние изменения (добавление toolbar); ?- маленькие изменения (цвет кнопки)
